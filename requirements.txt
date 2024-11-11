@@ -1,0 +1,10 @@
+torch
+transformers
+logging
+pathlib
+numpy
+opencv-python
+pillow
+pytesseract
+pdf2image
+pydantic
