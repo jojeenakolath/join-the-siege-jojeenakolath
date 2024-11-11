@@ -2,7 +2,7 @@
 
 ## Features
 
-- Multi-format support (PDF, PNG, JPG, JPEG)
+- Multi-format support 
 - High-accuracy classification using hybrid approach (ML + Rule-based)
 - User-friendly web interface
 - RESTful API endpoints
